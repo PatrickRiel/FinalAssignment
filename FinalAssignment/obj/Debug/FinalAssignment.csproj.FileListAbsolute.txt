@@ -1,0 +1,14 @@
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.dll
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.xml
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.AssemblyReference.cache
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CopyComplete
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Migrations.InitialCreate.resources
+C:\Users\chukn\source\repos\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.GenerateResource.cache
