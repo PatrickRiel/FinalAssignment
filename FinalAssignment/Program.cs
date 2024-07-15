@@ -13,7 +13,7 @@ class Program
                 context.Database.Initialize(force: false);
 
                 // Add a new student
-                var student = new Student { Name = "John Doe", Age = 22 };
+                var student = new Student { Name = "Patrick Chan", Age = 31 };
                 context.Students.Add(student);
                 context.SaveChanges();
                 Console.WriteLine("Student added.");
